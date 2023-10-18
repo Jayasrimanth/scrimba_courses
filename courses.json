@@ -9,4 +9,14 @@
        "module_number" : 2,
        "certification" : "free"
      }
+     {
+       "id" :  35,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "Learn Firebase",
+       "link" : "https://scrimba.com/learn/reusablereact",
+       "difficulty" : "Advanced",
+       "module_number" : 4,
+       "certification" : "free"
+     }
 ]
